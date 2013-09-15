@@ -1,4 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
+
 body { margin: 0 0 0 0; padding: 0 0 0 0; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; }
-div.leftColumn { color: #ffffff; background: #1d2d42; }
+
+div.leftColumn { color: #ffffff; background: #1d2d42; padding: 35px 10px 35px 10px; margin-right: 25px; font-size: .9em; float: left; }
+div.leftColumn h1 { font-size: 2em; }
+div.leftColumn li { list-style: none; padding: 2px 0px 6px 0px; margin-left: -15px; }
+img.photoOfMe { margin-left: auto; margin-right: auto; border: none; }
+
+div.bodySection { padding: 70px 10px 35px 35px; margin: 0px 0px 0px 25px; font-size: .9em; }
+div.bodySection p { padding-left: 45px; }
+div.bodySection h2 { color: #5781a7; border-bottom: #5781a7 solid 1px; }
